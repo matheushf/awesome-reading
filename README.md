@@ -16,3 +16,6 @@ https://alligator.io/
 http://www.react.express
 http://webpack.academy/p/the-core-concepts
 https://hackerthemes.com/bootstrap-cheatsheet/
+
+# Git
+https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013)
