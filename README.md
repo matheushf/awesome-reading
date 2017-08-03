@@ -20,3 +20,4 @@ https://hackerthemes.com/bootstrap-cheatsheet/
 
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013)
+https://help.github.com/articles/changing-a-remote-s-url/
