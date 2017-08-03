@@ -10,6 +10,7 @@ http://visionmedia.github.io/masteringnode/
 # Front-End
 https://compressor.io/compress
 https://coolors.co/
+http://colllor.com
 http://dev.apollodata.com/react/
 https://reactarmory.com
 https://alligator.io/
