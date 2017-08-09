@@ -18,6 +18,9 @@ http://www.react.express
 http://webpack.academy/p/the-core-concepts
 https://hackerthemes.com/bootstrap-cheatsheet/
 https://jakearchibald.github.io/svgomg/
+https://www.htmllion.com/css-flexbox.html
+https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux
+
 
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013)
