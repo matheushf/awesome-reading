@@ -20,6 +20,7 @@ https://hackerthemes.com/bootstrap-cheatsheet/
 https://jakearchibald.github.io/svgomg/
 https://www.htmllion.com/css-flexbox.html
 https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux
+https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf
 
 
 # Git
