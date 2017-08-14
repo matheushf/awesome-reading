@@ -22,7 +22,7 @@ https://www.htmllion.com/css-flexbox.html
 https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux
 https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf
 https://github.com/getify/You-Dont-Know-JS
-
+https://vuereactor.com/fundamentals/
 
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013)
