@@ -23,7 +23,12 @@ https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-
 https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf
 https://github.com/getify/You-Dont-Know-JS
 https://vuereactor.com/fundamentals/
+https://css-tricks.com/server-side-react-rendering/
 
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013)
 https://help.github.com/articles/changing-a-remote-s-url/
+
+# Debug
+https://github.com/google/ios-webkit-debug-proxy
+
