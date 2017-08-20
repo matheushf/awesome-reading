@@ -8,28 +8,28 @@ https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 http://visionmedia.github.io/masteringnode/
 
 # Front-End
-https://compressor.io/compress
-https://coolors.co/
-http://colllor.com
-http://dev.apollodata.com/react/
-https://reactarmory.com
-https://alligator.io/
-http://www.react.express
-http://webpack.academy/p/the-core-concepts
-https://hackerthemes.com/bootstrap-cheatsheet/
-https://jakearchibald.github.io/svgomg/
-https://www.htmllion.com/css-flexbox.html
-https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux
-https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf
-https://github.com/getify/You-Dont-Know-JS
-https://vuereactor.com/fundamentals/
-https://css-tricks.com/server-side-react-rendering/
+https://compressor.io/compress <br>
+https://coolors.co/ <br>
+http://colllor.com <br>
+http://dev.apollodata.com/react/ <br>
+https://reactarmory.com <br>
+https://alligator.io/ <br>
+http://www.react.express <br>
+http://webpack.academy/p/the-core-concepts <br>
+https://hackerthemes.com/bootstrap-cheatsheet/ <br>
+https://jakearchibald.github.io/svgomg/ <br>
+https://www.htmllion.com/css-flexbox.html <br>
+https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux <br>
+https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf <br>
+https://github.com/getify/You-Dont-Know-JS <br>
+https://vuereactor.com/fundamentals/ <br>
+https://css-tricks.com/server-side-react-rendering/ <br>
 
 # Moqups
 https://app.moqups.com/
 
 # Git
-https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013)
+https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013) <br>
 https://help.github.com/articles/changing-a-remote-s-url/
 
 # Debug
