@@ -28,6 +28,10 @@ https://css-tricks.com/server-side-react-rendering/ <br>
 # Moqups
 https://app.moqups.com/
 
+Inspiration
+https://tympanus.net/Development/ButtonStylesInspiration/
+https://tympanus.net/Development/CreativeGooeyEffects/index.html
+
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013) <br>
 https://help.github.com/articles/changing-a-remote-s-url/
