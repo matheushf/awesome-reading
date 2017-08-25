@@ -28,9 +28,11 @@ https://css-tricks.com/server-side-react-rendering/ <br>
 # Moqups
 https://app.moqups.com/
 
-Inspiration
+# Inspiration
 https://tympanus.net/Development/ButtonStylesInspiration/
 https://tympanus.net/Development/CreativeGooeyEffects/index.html
+https://tympanus.net/codrops/2017/08/08/morphing-page-transition/
+https://tympanus.net/Development/ElasticProgress/
 
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013) <br>
