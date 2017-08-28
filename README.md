@@ -24,6 +24,7 @@ https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf <br>
 https://github.com/getify/You-Dont-Know-JS <br>
 https://vuereactor.com/fundamentals/ <br>
 https://css-tricks.com/server-side-react-rendering/ <br>
+https://v4-alpha.getbootstrap.com/utilities/flexbox/ <br>
 
 # Moqups
 https://app.moqups.com/
