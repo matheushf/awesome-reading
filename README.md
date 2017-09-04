@@ -25,6 +25,7 @@ https://github.com/getify/You-Dont-Know-JS <br>
 https://vuereactor.com/fundamentals/ <br>
 https://css-tricks.com/server-side-react-rendering/ <br>
 https://v4-alpha.getbootstrap.com/utilities/flexbox/ <br>
+https://medium.com/trainingcenter/c%C3%B3digo-limpo-vers%C3%A3o-javascript-80adecafdbec
 
 # Moqups
 https://app.moqups.com/
