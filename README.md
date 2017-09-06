@@ -7,8 +7,9 @@ List of articles and tutorials to read (now or later)
 
 [How To Develop An Interactive Command Line Application Using Node.js](https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/)
 
-[How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
-http://visionmedia.github.io/masteringnode/]
+[How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
+
+[Mastering Node](http://visionmedia.github.io/masteringnode/)
 
 # Front-End
 https://compressor.io/compress <br>
