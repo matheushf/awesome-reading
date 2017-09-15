@@ -12,9 +12,12 @@ List of articles and tutorials to read (now or later)
 [Mastering Node](http://visionmedia.github.io/masteringnode/)
 
 # Front-End
-https://compressor.io/compress <br>
-https://coolors.co/ <br>
-http://colllor.com <br>
+[Compress and optimize your images](https://compressor.io/compress)
+
+[Coolors](https://coolors.co/)
+
+[Colllor](http://colllor.com)
+
 http://dev.apollodata.com/react/ <br>
 https://reactarmory.com <br>
 https://alligator.io/ <br>
