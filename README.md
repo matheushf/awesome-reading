@@ -12,14 +12,14 @@ List of articles and tutorials to read (now or later)
 [Mastering Node](http://visionmedia.github.io/masteringnode/)
 
 # Front-End
-[Compress and optimize your images](https://compressor.io/compress)
-[Coolors](https://coolors.co/)
-[Colllor](http://colllor.com)
-[React Apollo](http://dev.apollodata.com/react/)
-[React Armory - The simplest way to learn React.](https://reactarmory.com)
-[Learning React](http://www.react.express)
-[webpack: The Core Concepts](http://webpack.academy/p/the-core-concepts)
-[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+<br>[Compress and optimize your images](https://compressor.io/compress)
+<br>[Coolors](https://coolors.co/)
+<br>[Colllor](http://colllor.com)
+<br>[React Apollo](http://dev.apollodata.com/react/)
+<br>[React Armory - The simplest way to learn React.](https://reactarmory.com)
+<br>[Learning React](http://www.react.express)
+<br>[webpack: The Core Concepts](http://webpack.academy/p/the-core-concepts)
+<br>[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 https://jakearchibald.github.io/svgomg/ <br>
 https://www.htmllion.com/css-flexbox.html <br>
 https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux <br>
