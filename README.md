@@ -4,26 +4,19 @@ List of articles and tutorials to read (now or later)
 <h2>Node.js</h2>
 
 [Useful Node.js Tools, Tutorials And Resources](https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/)
-
 [How To Develop An Interactive Command Line Application Using Node.js](https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/)
-
 [How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
-
 [Mastering Node](http://visionmedia.github.io/masteringnode/)
 
 # Front-End
 [Compress and optimize your images](https://compressor.io/compress)
-
 [Coolors](https://coolors.co/)
-
 [Colllor](http://colllor.com)
-
-http://dev.apollodata.com/react/ <br>
-https://reactarmory.com <br>
-https://alligator.io/ <br>
-http://www.react.express <br>
-http://webpack.academy/p/the-core-concepts <br>
-https://hackerthemes.com/bootstrap-cheatsheet/ <br>
+[React Apollo](http://dev.apollodata.com/react/)
+[React Armory - The simplest way to learn React.](https://reactarmory.com)
+[Learning React](http://www.react.express)
+[webpack: The Core Concepts](http://webpack.academy/p/the-core-concepts)
+[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 https://jakearchibald.github.io/svgomg/ <br>
 https://www.htmllion.com/css-flexbox.html <br>
 https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux <br>
