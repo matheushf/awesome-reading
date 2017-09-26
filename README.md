@@ -31,16 +31,16 @@ List of articles and tutorials to read (now or later)
 <br>[Código Limpo, versão JavaScript!](https://medium.com/trainingcenter/c%C3%B3digo-limpo-vers%C3%A3o-javascript-80adecafdbec)
 
 # Moqups
-https://app.moqups.com/
+[Moqups](https://app.moqups.com/)
 
 # Inspiration
-https://tympanus.net/Development/ButtonStylesInspiration/
-https://tympanus.net/Development/CreativeGooeyEffects/index.html
-https://tympanus.net/codrops/2017/08/08/morphing-page-transition/
-https://tympanus.net/Development/ElasticProgress/
-https://tympanus.net/Development/ProgressButtonStyles/
-https://tympanus.net/Development/CreativeLinkEffects/
-https://codyhouse.co/
+<br>https://tympanus.net/Development/ButtonStylesInspiration/
+<br>https://tympanus.net/Development/CreativeGooeyEffects/index.html
+<br>https://tympanus.net/codrops/2017/08/08/morphing-page-transition/
+<br>https://tympanus.net/Development/ElasticProgress/
+<br>https://tympanus.net/Development/ProgressButtonStyles/
+<br>https://tympanus.net/Development/CreativeLinkEffects/
+<br>https://codyhouse.co/
 
 # Git
 https://wikileaks.org/ciav7p1/cms/page_1179773.html?ct=t(BrazilJS_Weekly_468_9_2013) <br>
