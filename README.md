@@ -22,13 +22,13 @@ List of articles and tutorials to read (now or later)
 <br>[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 <br>https://jakearchibald.github.io/svgomg/ 
 <br>[CSS Flexbox](https://www.htmllion.com/css-flexbox.html)
-https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux <br>
-https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf <br>
-https://github.com/getify/You-Dont-Know-JS <br>
-https://vuereactor.com/fundamentals/ <br>
-https://css-tricks.com/server-side-react-rendering/ <br>
-https://v4-alpha.getbootstrap.com/utilities/flexbox/ <br>
-https://medium.com/trainingcenter/c%C3%B3digo-limpo-vers%C3%A3o-javascript-80adecafdbec
+<br>[Building desktop apps with electron, webpack and redux](https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux)
+<br>[Tipografia para WEB](https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf)
+<br>[You dont know JS](https://github.com/getify/You-Dont-Know-JS)
+<br>[Vue.js Fundamentals](https://vuereactor.com/fundamentals/)
+<br>[Server-Side React Rendering](https://css-tricks.com/server-side-react-rendering/) 
+<br>[Bootstrap Flexbox](https://v4-alpha.getbootstrap.com/utilities/flexbox/)
+<br>[Código Limpo, versão JavaScript!](https://medium.com/trainingcenter/c%C3%B3digo-limpo-vers%C3%A3o-javascript-80adecafdbec)
 
 # Moqups
 https://app.moqups.com/
