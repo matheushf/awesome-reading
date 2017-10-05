@@ -20,7 +20,7 @@ List of articles and tutorials to read (now or later)
 <br>[Learning React](http://www.react.express)
 <br>[webpack: The Core Concepts](http://webpack.academy/p/the-core-concepts)
 <br>[Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)
-<br>https://jakearchibald.github.io/svgomg/ 
+<br>[svgomg](https://jakearchibald.github.io/svgomg/)
 <br>[CSS Flexbox](https://www.htmllion.com/css-flexbox.html)
 <br>[Building desktop apps with electron, webpack and redux](https://blog.red-badger.com/blog/2016/04/18/building-desktop-apps-with-electron-webpack-and-redux)
 <br>[Tipografia para WEB](https://www.origamid.com/wp-content/uploads/2015/05/tipografia-para-web.pdf)
