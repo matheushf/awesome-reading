@@ -7,6 +7,7 @@ List of articles and tutorials to read (now or later)
 <br>[How To Develop An Interactive Command Line Application Using Node.js](https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/)
 <br>[How To Develop A Chat Bot With Node.js](https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/)
 <br>[Mastering Node](http://visionmedia.github.io/masteringnode/)
+<br>[7 Usefull functions JS](https://davidwalsh.name/essential-javascript-functions)
 
 # Front-End
 <br>[Compress and optimize your images](https://compressor.io/compress)
